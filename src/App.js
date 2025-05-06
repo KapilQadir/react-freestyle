@@ -16,9 +16,9 @@ function App() {
         <h1>Welcome to <span>Qadir</span> freestyle</h1>
       </header>
       <main>
-        {/* <img src={logo} className="App-logo" alt="logo" /> Use imported logo */}
+        <img src={logo} className="App-logo" alt="logo" /> Use imported logo
         {/* <iframe width="560" height="315" src="https://www.youtube.com/embed/Xn3Xj9Trepc?si=3ObvKIX4iKU-nHbf" frameBorder="0" allowFullScreen title="YouTube video"></iframe> */}
-        <p>You are watching my latest video on <span>AWS EC2</span>.</p>
+        <p>You are watching m y latest video on <span>AWS EC2</span>.</p>
         <h2>LinkedIn Connection Game</h2>
         <p>Are you connected with me on LinkedIn?</p>
         <button onCliqck={checkLinkedInConnection}>Check Connection</button>
